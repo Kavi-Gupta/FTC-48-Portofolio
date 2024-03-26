@@ -1,4 +1,4 @@
-]# Welcome to my FTC Team 48 experience showcase
+# Welcome to my FTC Team 48 experience showcase
 
 ### My primary responsibility was to program our team's autonomous program
 
