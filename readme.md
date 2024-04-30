@@ -20,6 +20,9 @@ My code is available at:
 
 * Coordinated with CADders to make sure that there were no interferences with devices/sensors like encoders
 
+![image](https://github.com/Kavi-Gupta/FTC-48-Portofolio/assets/69233899/06d0446c-e63f-4bc4-9b53-d3ce2ce3c731)
+
+
 ### Assembly
 
 * Fixed major problems with mechanical pieces that would constantly fail
@@ -48,6 +51,9 @@ My code is available at:
 
 * Used MeepMeep (a GUI to view simulated RoadRunner paths) to simulate and create autonomous paths
 
+![image](https://github.com/Kavi-Gupta/FTC-48-Portofolio/assets/69233899/75e9936e-4b53-452a-b043-5f2bb495ed13)
+
+
 * Implemented PIDF algorithm for precise control over arm movement
 
 * Introduced other members to Java
@@ -65,3 +71,11 @@ My code is available at:
 * Implemented code to detect our object using a USB-linked camera
 
 * Worked with experts in the field to imporve our model's accuracy
+
+### Other
+
+* I would take take the initiative to take the robot home the day before meets and work into the early morning in order to bring it to a working state
+
+* I'm currently working on being an FTC lead
+
+* In order to better prepare next year's 9th graders for FTC, I'm hosting a summer workshop to train them in CAD and programming
