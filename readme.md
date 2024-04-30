@@ -10,9 +10,9 @@ My code is available at:
 
 [Link to my branch on the team's repository](https://github.com/NerdHerd-FTC/FTC-48-Road-Runner-Autonomous/tree/Kavi_Gupta_Developer)
 
-##Contributions
+## Contributions
 
-###Design
+### Design
 
 * Brainstormed ideas for drone launcher, arm, and overall robot
 
@@ -20,7 +20,7 @@ My code is available at:
 
 * Coordinated with CADders to make sure that there were no interferences with devices/sensors like encoders
 
-###Assembly
+### Assembly
 
 * Fixed major problems with mechanical pieces that would constantly fail
 
@@ -30,7 +30,7 @@ My code is available at:
 
 * Handled the majority of wiring and electronics
 
-###Drive Team
+### Drive Team
 
 * Drive coach during Interleague Tournament
 
@@ -38,7 +38,7 @@ My code is available at:
 
 * Coordinates with drivers/operators to implement intuitive controls
 
-###Programming
+### Programming
 
 * Assisted other members in solving development environment errors
 
@@ -58,7 +58,7 @@ My code is available at:
 
 * Assisted with some initial TeleOp development
 
-###Artifical Intelligence
+### Artifical Intelligence
 
 * Trained an object recognition model on over 1000 images using the TensorFlow Object Detection interface
 
