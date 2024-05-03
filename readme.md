@@ -70,7 +70,7 @@ My code is available at:
 
 * Implemented code to detect our object using a USB-linked camera
 
-* Worked with experts in the field to imporve our model's accuracy
+* Worked with experts in the field to improve our model's accuracy
 
 ### Other
 
