@@ -18,7 +18,7 @@ My code is available at:
 
 * Assisted in evaluating other members' designs and critiquing them
 
-* Coordinated with CADders to make sure that there were no interferences with devices/sensors like encoders
+* Coordinated with 3D modelers to make sure that there were no interferences with devices/sensors like encoders
 
 ![image](https://github.com/Kavi-Gupta/FTC-48-Portofolio/assets/69233899/06d0446c-e63f-4bc4-9b53-d3ce2ce3c731)
 
@@ -27,7 +27,7 @@ My code is available at:
 
 * Fixed major problems with mechanical pieces that would constantly fail
 
-* Taught other members how to tighten screw properly and choose appropriate screw length
+* Taught other members how to choose appropriate screw length and tighten screws properly
 
 * Assembled main chassis and arm
 
@@ -35,17 +35,17 @@ My code is available at:
 
 ### Drive Team
 
-* Drive coach during Interleague Tournament
+* Drive Coach during Interleague Tournament
 
-* Driver or operator during some of the initial meets
+* Driver or Operator during some of the initial meets
 
-* Coordinates with drivers/operators to implement intuitive controls
+* Coordinates with Drivers/Operators to implement intuitive controls
 
 ### Programming
 
 * Assisted other members in solving development environment errors
 
-* Streamlined code upload by introducing wireless code pushing
+* Streamlined code uploads by introducing wireless code pushing
 
 * Implemented RoadRunner (a library that helps code autonomous paths) to program better autonomous functionality
 
@@ -74,7 +74,7 @@ My code is available at:
 
 ### Other
 
-* I would take take the initiative to take the robot home the day before meets and work into the early morning in order to bring it to a working state
+* I would take the initiative to take the incomplete robot home the day before meets and work into the early morning in order to bring it to a working state
 
 * I'm currently working on being an FTC lead
 
