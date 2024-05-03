@@ -76,6 +76,6 @@ My code is available at:
 
 * I would take the initiative to take the incomplete robot home the day before meets and work into the early morning in order to bring it to a working state
 
-* I'm currently working on being an FTC lead
+* I'm currently applying to be an FTC lead
 
 * In order to better prepare next year's 9th graders for FTC, I'm hosting a summer workshop to train them in CAD and programming
