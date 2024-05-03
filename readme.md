@@ -2,7 +2,7 @@
 
 ### My primary responsibility was to program our team's autonomous program
 
-The first 30 seconds of this video shoiw my autonomous program:
+The first 30 seconds of this video show my autonomous program:
 
 https://github.com/Kavi-Gupta/FTC-48-Portofolio/assets/69233899/c0c2da14-9b2d-455f-b68e-da02dfbdebed
 
